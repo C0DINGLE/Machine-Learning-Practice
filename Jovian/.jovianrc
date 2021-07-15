@@ -1,0 +1,16 @@
+{
+  "notebooks": {
+    "Jovian 1.ipynb": {
+      "slug": "a4d7cb3903864218bbbc80ec7297f724"
+    },
+    "Logistic Regression.ipynb": {
+      "slug": "66f5ed4721d74b9ab4e8b05031d4343d"
+    },
+    "Assignment1.ipynb": {
+      "slug": "dd8e48cf8332420d92c99e2c30dd7820"
+    },
+    "Decision Trees and Random Forests.ipynb": {
+      "slug": "eb5d27346cf24a1bb45baa7279086500"
+    }
+  }
+}
